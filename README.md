@@ -10,13 +10,13 @@
 
 <br>
 
-## 🧠 About Me
+## About Me
 
 I'm a full-stack developer with a strong focus on building reliable, well-structured systems — from front-end interfaces to the infrastructure that supports them. I'm continuously expanding my foundation in computer networking, and I approach every project with an emphasis on clarity, maintainability, and long-term scalability.
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -46,7 +46,7 @@ I'm a full-stack developer with a strong focus on building reliable, well-struct
 
 <br>
 
-## 🌐 Networking Fundamentals
+## Networking Fundamentals
 
 <div align="center">
 
@@ -61,7 +61,7 @@ I'm a full-stack developer with a strong focus on building reliable, well-struct
 
 <br>
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -74,7 +74,7 @@ I'm a full-stack developer with a strong focus on building reliable, well-struct
 
 <br>
 
-## 🫧 My Contribution Graph
+## My Contribution Graph
 
 <div align="center">
 
