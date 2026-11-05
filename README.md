@@ -4,7 +4,7 @@
 
 ☕ Full-Stack Developer | 🤖 AI Systems | 🌐 Network Tools
 
-[Portfolio](#) · [LinkedIn](#) · [Email](#)
+[Portfolio](https://portofolio-pied-eight-20.vercel.app) · [LinkedIn](https://www.linkedin.com/in/rizkygurmilang) · [Email](mailto:rizkygurmilang@gmail.com)
 
 </div>
 
