@@ -4,7 +4,7 @@
 
 ☕ Full-Stack Developer | 🤖 AI Systems | 🌐 Network Tools
 
-[Portfolio](https://portofolio-pied-eight-20.vercel.app) · [LinkedIn](https://www.linkedin.com/in/rizkygurmilang) · [Email](mailto:rizkygurmilang@gmail.com)
+[Portfolio](https://rizkygurmilang.my.id) · [LinkedIn](https://www.linkedin.com/in/rizkygurmilang) · [Email](mailto:rizkygurmilang@gmail.com)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a full-stack developer with a strong focus on building reliable, well-structured systems — from front-end interfaces to the infrastructure that supports them. I'm continuously expanding my foundation in computer networking, and I approach every project with an emphasis on clarity, maintainability, and long-term scalability.
+I'm a full-stack developer with a strong focus on building reliable, well-structured systems, from front-end interfaces to the infrastructure that supports them. I'm continuously expanding my foundation in computer networking, and I approach every project with an emphasis on clarity, maintainability, and long-term scalability.
 
 <br>
 
